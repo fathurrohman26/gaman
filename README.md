@@ -114,7 +114,7 @@ Integrate `gaman` in ci3 application
 `for`
 
 ```blade
-for ($i=0; $i<10; $i++)
+@for ($i=0; $i<10; $i++)
 	{{ $i }}
 @endfor
 ```
@@ -122,7 +122,7 @@ for ($i=0; $i<10; $i++)
 `foreach`
 
 ```blade
-foreach ($users as $user)
+@foreach ($users as $user)
 	{{ $user->name }}
 @endforeach
 ```
