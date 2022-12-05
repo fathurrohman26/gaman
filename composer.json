@@ -1,0 +1,13 @@
+{
+    "name": "fathurrohman26/gaman",
+    "description": "CI3 Custom Template Engine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fathurrohman",
+            "email": "fathurrohmanrosyadi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
